@@ -16,7 +16,6 @@ This is a desktop application developed in Python that generates a panoramic ima
 ## Project Structure
 
 ```
-
 Panorama\_Project/
 ├── main.py                  # Main application file
 ├── src/
@@ -25,7 +24,7 @@ Panorama\_Project/
 ├── data/                    # Input video folder
 └── requirements.txt         # Python dependencies
 
-````
+```
 
 ## Installation
 
@@ -34,7 +33,7 @@ Panorama\_Project/
 ```bash
 git clone git@github.com:yourusername/Panorama_Project.git
 cd Panorama_Project
-````
+```
 
 2. Install the required Python packages:
 
