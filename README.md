@@ -1,4 +1,3 @@
-```markdown
 # Panorama Stitching Application
 
 ## Description
@@ -16,14 +15,13 @@ This is a desktop application developed in Python that generates a panoramic ima
 ## Project Structure
 
 ```
-Panorama\_Project/
+Panorama_Project/
 ├── main.py                  # Main application file
 ├── src/
 │   └── utils.py             # Utility functions for frame extraction, stitching, and cropping
 ├── outputs/                 # Output folder for stitched panorama images
 ├── data/                    # Input video folder
 └── requirements.txt         # Python dependencies
-
 ```
 
 ## Installation
@@ -53,10 +51,10 @@ Follow the on-screen instructions to load a video file and generate a stitched p
 
 ## Dependencies
 
-* Python 3.8 or higher
-* OpenCV (`opencv-python`)
-* NumPy
-* PyQt5
+- Python 3.8 or higher
+- OpenCV (`opencv-python`)
+- NumPy
+- PyQt5
 
 You can manually install them with:
 
@@ -70,8 +68,9 @@ The final stitched panorama image will be saved in the `outputs/` directory.
 
 ## Future Improvements
 
-* Allow manual selection of keyframes
-* Support multiple stitching backends or tuning parameters
-* Add export options for different image formats
-* Improve cropping accuracy
-* Add drag-and-drop support in the GUI
+- Allow manual selection of keyframes
+- Support multiple stitching backends or tuning parameters
+- Add export options for different image formats
+- Improve cropping accuracy
+- Add drag-and-drop support in the GUI
+
